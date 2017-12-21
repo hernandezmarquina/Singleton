@@ -5,13 +5,9 @@
 - Custom views using XIB files
 - Share static data using Singleton Pattern
 
-
-Iphone 6s Plus             |  Iphone X
-:-------------------------:|:-------------------------:
-![](screenshots/iPhone6Plus-Login.png)  | ![](screenshots/iPhoneX-Login.png)
-![](screenshots/iPhone6Plus-SignUp.png) | ![](screenshots/iPhoneX-SignUp.png)
-![](screenshots/iPhone6Plus-Map.png)    | ![](screenshots/iPhoneX-Map.png)
-![](screenshots/iPhone6Plus-List.png)   | ![](screenshots/iPhoneX-List.png)
+![](screenshots/screenshot1.png)
+![](screenshots/screenshot2.png)
+![](screenshots/screenshot3.png)
 
 ## Requirements
 
